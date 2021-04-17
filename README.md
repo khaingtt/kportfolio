@@ -7,12 +7,12 @@ The GitHub repository can be viewed [here](https://github.com/khaingtt/portfolio
 ## **Purpose**
 
 This is the portfolio website made as an assigment submission at **Coder Academy**.<br/>
-It also has the purpose of representing myself online for the tech community, as well as serving as my online-resume.
+
 
 ## **Functionality / features**
 
 ### **Overview**
-The site consists of 11 pages in total, including index, the set of 5 second level pages (about, contact etc.) and 5 pages containing blog posts
+The site consists of 11 pages in total, including index, about, blogs, projects and contact.
 
 ![Sitemap](./screenshots/Sitemap.png)
 ### **Components**

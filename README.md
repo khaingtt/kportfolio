@@ -73,16 +73,16 @@ Contact</br>
 ### Mobile
 
 Landing page</br>
-![Landing page](./doc/screenshots/mobile/Homepage.png)</br>
+![Landing page](./doc/screenshots/mobile/mhome.png)</br>
 About</br>
-![About](./doc/screenshots/mobile/about.png)</br>
+![About](./doc/screenshots/mobile/mabout.png)</br>
 Projects</br>
-![Projects](./doc/screenshots/mobile/projects.png)</br>
+![Projects](./doc/screenshots/mobile/mprojects.png)</br>
 Blog</br>
-![Blog](./doc/screenshots/mobile/blog.png)</br>
+![Blog](./doc/screenshots/mobile/mblog.png)</br>
 Blog Post</br>
-![Blog Post](./doc/screenshots/mobile/blog-post.png)</br>
+![Blog Post](./doc/screenshots/mobile/mblog-post.png)</br>
 Resume</br>
-![Resume](./doc/screenshots/mobile/resume.png)</br>
+![Resume](./doc/screenshots/mobile/mresume.png)</br>
 Contact</br>
-![Contact](./doc/screenshots/mobile/contact.png)</br>
+![Contact](./doc/screenshots/mobile/mcontact.png)</br>

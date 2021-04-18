@@ -1,12 +1,12 @@
 # My Portfolio Website
 
-The website is viewable online [here](https://khai-tun-28351020b.netlify.app/).
+The website is viewable online [here](https://khaing.netlify.app/).
 
-The GitHub repository can be viewed [here](https://github.com/khaingtt/portfolio).
+The GitHub repository can be viewed [here](https://github.com/khaingtt/kportfolio).
 
 ## **Purpose**
 
-This portfolio website is for an assigment submission for INT1012 - Introduction to Web at **Coder Academy**.</br>
+This portfolio website is for an assigment submission for _INT1012 - Introduction to Web_ at **Coder Academy**.</br>
 
 ## **Functionality and features of Portfolio**
 

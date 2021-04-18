@@ -58,17 +58,17 @@ page2</br>
 Landing page</br>
 ![Landing page](./doc/screenshots/Homepage.png)</br>
 About</br>
-![About](./doc/screenshots/about.png)</br>
+![About](./doc/screenshots/About.png)</br>
 Projects</br>
-![Projects](./doc/screenshots/projects.png)</br>
+![Projects](./doc/screenshots/Projects.png)</br>
 Blog</br>
-![Blog](./doc/screenshots/blog.png)</br>
+![Blog](./doc/screenshots/Blog.png)</br>
 Blog Post</br>
-![Blog Post](./doc/screenshots/blog-scrolldown.png)</br>
+![Blog Post](./doc/screenshots/Blog-scrolldown.png)</br>
 Resume</br>
-![Resume](./doc/screenshots/resume.png)</br>
+![Resume](./doc/screenshots/Resume.png)</br>
 Contact</br>
-![Contact](./doc/screenshots/contact.png)</br>
+![Contact](./doc/screenshots/Contact.png)</br>
 
 ### Mobile
 

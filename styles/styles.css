@@ -887,6 +887,12 @@ footer p {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .about-box {
+    margin: 1rem 1rem 5rem 1rem;
+  }
+}
+
 .text-about, .text-blog, .text-resume {
   font-family: "Lato", sans-serif;
   font-size: 20px;

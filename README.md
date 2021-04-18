@@ -28,7 +28,7 @@ The site consists of 12 pages in total, which includes Home, About, Projects , B
 
 ## Target audience
 
-This website is for personal web development, to impress the potential employers, collaborators and enable businesses to build engaging experiences across digital channels
+This website is for my teachers, classmates and personal improvement in coding skills.
 
 ## List of used Tech stack
 

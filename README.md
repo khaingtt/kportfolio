@@ -6,9 +6,9 @@ The GitHub repository can be viewed [here](https://github.com/khaingtt/portfolio
 
 ## **Purpose**
 
-This portfolio website is for an assigment submission at **Coder Academy**.<br/>
+This portfolio website is for an assigment submission for INT1012 - Introduction to Web at **Coder Academy**.</br>
 
-## **Functionality / features**
+## **Functionality and features of Portfolio**
 
 ### **Overview**
 
@@ -18,13 +18,13 @@ The site consists of 12 pages in total, which includes Home, About, Projects , B
 
 ### **Components**
 
-* The common _**navigation bar**_  presents on all the pages. It has two parts that links to social media and the main menu. For the mobile view the main menu collapses into a hamburger menu icon and a drop down menu.
+* The site has two parts that links to social media and the main menu. The common _**navigation bar**_  presents on all the pages. For the mobile view the main menu collapses into a hamburger menu icon and a drop down menu.
 * Every pages include _**footer**_ with the copyright statement.
 * The _**"quick link"**_ buttons, the viewer to the contact or project pages where appropriate.
 * Graphic content is represented by the _**icons**_ (socials icons in the navbar, tech icons on the resume and project pages) and _**images**_ (on the About page, Projects, Blog, Blog posts).
 * Projects and Blog pages have a common theme of _**"preview cards"**_, the separate box that includes images, text, header, links.
 * Blog post pages share a component of a _**blog navbar**_, which includes left and right arrows and "back to blog" button.
-* Finally, the contact page contains the _**form**_ with text fields, lables, text area for the message and submit button.
+* Finally, the contact page contains the _**form**_ with text name fields, email address bar, text area for the message and submit button.
 
 ## Target audience
 
@@ -48,14 +48,14 @@ This website is for personal web development, to impress the potential employers
 
 ### Mockups
 
-Wireframes pages<br/>
+Wireframes pages</br>
 ![page1](./doc/screenshots/wireframes/wireframescreen1.png)<br/>
 page2</br>
 ![page2](./doc/screenshots/wireframes/wireframescreen2.png)</br>
 
 ### Desktop
 
-Landing page<br/>
+Landing page</br>
 ![Landing page](./doc/screenshots/Homepage.png)</br>
 About</br>
 ![About](./doc/screenshots/about.png)</br>
@@ -64,7 +64,7 @@ Projects</br>
 Blog</br>
 ![Blog](./doc/screenshots/blog.png)</br>
 Blog Post</br>
-![Blog Post](./doc/screenshots/blog-post.png)</br>
+![Blog Post](./doc/screenshots/blog-scrolldown.png)</br>
 Resume</br>
 ![Resume](./doc/screenshots/resume.png)</br>
 Contact</br>
@@ -72,7 +72,7 @@ Contact</br>
 
 ### Mobile
 
-Landing page<br/>
+Landing page</br>
 ![Landing page](./doc/screenshots/mobile/Homepage.png)</br>
 About</br>
 ![About](./doc/screenshots/mobile/about.png)</br>
